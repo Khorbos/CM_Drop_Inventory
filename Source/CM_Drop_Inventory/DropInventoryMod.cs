@@ -2,7 +2,7 @@
 using RimWorld;
 using Verse;
 
-namespace CM_Drop_Inventory
+namespace KB_Drop_Inventory
 {
     public class DropInventoryMod : Mod
     {
@@ -11,7 +11,7 @@ namespace CM_Drop_Inventory
 
         public DropInventoryMod(ModContentPack content) : base(content)
         {
-            var harmony = new Harmony("CM_Drop_Inventory");
+            var harmony = new Harmony("KB_Drop_Inventory");
             harmony.PatchAll();
 
             _instance = this;

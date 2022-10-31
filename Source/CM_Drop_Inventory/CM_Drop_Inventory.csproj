@@ -7,8 +7,8 @@
     <ProjectGuid>{CAF48F2F-FD2E-4B59-A229-AD3DD99717F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CM_Drop_Inventory</RootNamespace>
-    <AssemblyName>CM_Drop_Inventory</AssemblyName>
+    <RootNamespace>KB_Drop_Inventory</RootNamespace>
+    <AssemblyName>KB_Drop_Inventory</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

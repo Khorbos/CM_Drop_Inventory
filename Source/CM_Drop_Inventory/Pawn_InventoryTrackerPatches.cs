@@ -9,7 +9,7 @@ using RimWorld.Planet;
 using Verse;
 using Verse.AI;
 
-namespace CM_Drop_Inventory
+namespace KB_Drop_Inventory
 {
     [StaticConstructorOnStartup]
     public static class Pawn_InventoryTrackerPatches
@@ -40,8 +40,8 @@ namespace CM_Drop_Inventory
                             {
                                 __instance.DropAllNearPawn(__instance.pawn.PositionHeld, false);
                             },
-                            defaultLabel = "CM_Drop_Inventory_DropLabel".Translate(),
-                            defaultDesc = "CM_Drop_Inventory_DropDescription".Translate(),
+                            defaultLabel = "KB_Drop_Inventory_DropLabel".Translate(),
+                            defaultDesc = "KB_Drop_Inventory_DropDescription".Translate(),
                             icon = ContentFinder<Texture2D>.Get("UI/Down_Arrow"),
                         };
 
