@@ -1,3 +1,9 @@
+## [1.0.5] - 2023-11-02
+
+### Added
+- French translation
+- German translation by Ragnar-F
+
 ## [1.0.4] - 2022-10-31
 
 ### Added
